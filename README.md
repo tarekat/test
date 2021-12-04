@@ -1,4 +1,4 @@
-#  Demo Git Repository
+#  Demo Git Repository2
 This is the first file in this repo.
 
 ## Lorem Ipusum
